@@ -11,3 +11,5 @@ int randNumb = new Random().Next(100, 1000);
 int newNumb = CutNumber(randNumb);
 
 Console.WriteLine($"New version of a number {randNumb} is {newNumb}");
+
+тест
