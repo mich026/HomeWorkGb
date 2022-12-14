@@ -14,7 +14,7 @@ Console.WriteLine("A в степени B равно: " + step);
 */
 
 // Задача 2.
-
+/*
 Console.WriteLine("введите число");
 int i = Convert.ToInt32(Console.ReadLine());
 int sum = 0;
@@ -26,3 +26,21 @@ while (i > 0)
     sum = sum + num;
 }
 Console.WriteLine("сумма всех цифр в числе равна: " + sum);
+*/
+
+//Задача 3.
+
+int [] numbers = new int[8];
+Console.Write("[");
+
+for (int i = 0; i < numbers.Length; i++)
+ {
+    numbers [i] = new Random().Next(0, 8);
+    Console.Write(" " + Method (i) + " ");
+ }
+Console.Write("]");
+
+int Method (int a)
+{
+    return numbers[a];
+}
