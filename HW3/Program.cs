@@ -26,7 +26,7 @@ Palindrom(number);
 */
 
 // Задача 2. 
-
+/*
 double Dist(double x1, double y1, double x2, double y2, double z1, double z2)
 {
 double x = x2 - x1;
@@ -50,3 +50,18 @@ Console.Write("Введите координату Z для B: ");
 double zB = Convert.ToDouble(Console.ReadLine());
 double res = Math.Round(Dist(xA, yA, xB, yB, zA, zB),2);
 Console.WriteLine($"Расстояние между А и В {res}");
+*/
+
+void Cube (int num)
+{
+    int count = 1;
+        while (count <= num)
+        {
+        double cubeNum = Math.Pow(count,3);
+        Console.Write(cubeNum + " ");
+        count++;
+        }
+}
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+Cube(number);
