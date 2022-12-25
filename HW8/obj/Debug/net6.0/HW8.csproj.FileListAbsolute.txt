@@ -1,0 +1,15 @@
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.csproj.AssemblyReference.cache
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.AssemblyInfoInputs.cache
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.AssemblyInfo.cs
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.csproj.CoreCompileInputs.cache
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\bin\Debug\net6.0\HW8.exe
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\bin\Debug\net6.0\HW8.deps.json
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\bin\Debug\net6.0\HW8.runtimeconfig.json
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\bin\Debug\net6.0\HW8.dll
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\bin\Debug\net6.0\HW8.pdb
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.dll
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\refint\HW8.dll
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.pdb
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\HW8.genruntimeconfig.cache
+C:\Users\Марианна\OneDrive\Рабочий стол\Develop\HomeWorkGB\HW8\obj\Debug\net6.0\ref\HW8.dll
